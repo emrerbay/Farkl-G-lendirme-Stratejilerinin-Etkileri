@@ -1,9 +1,8 @@
 import { redirect } from 'next/navigation';
 
 const GOOGLE_FORMS = [
-  'https://docs.google.com/forms/d/1fNApmsQycPhDOdnqdFnHKMfh2Fe6JJpRa11fNyl82lU/viewform',//1
-  'https://docs.google.com/forms/d/1X5z4z3f8ErzV4aRBkbGFZpoOt5l0Da-gxpGxu4D-f2A/viewform',//2
-  'https://docs.google.com/forms/d/1oKr5FyV0jkI4epB9H_Qjc256EpTr74hzmFth2ErR7a8/viewform',//3
+  'https://docs.google.com/forms/d/e/1FAIpQLSd9yWawfSQM_KOGq77qdnHKZnaK2ksg0efToyLpVV-uqer_Nw/viewform?usp=header',//1
+  'https://docs.google.com/forms/d/e/1FAIpQLSfWx4fNRMiO5XmI2gQRGzxKyzPQ6R6XYiL9pX0JJywsPcLGMw/viewform',//2
 ];
 
 export default function Home() {
